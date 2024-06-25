@@ -1,1 +1,0 @@
-# sales-analyis_sql
